@@ -1,6 +1,4 @@
 ---
-title: "Montco Supply"
-
 description: "Montco Supply is..."
 theme_version: '2.8.2'
 cascade:
