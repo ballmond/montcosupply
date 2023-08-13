@@ -6,4 +6,4 @@ cascade:
 ---
 Contact information...
 
-{{< figure src="/images/eBay-Logo.png" link="https://www.ebay.com/str/montcosupply" target="_blank" rel="noopener noreferrer" alt="Visit our ebay store">}}
+{{< figure src="https://res.cloudinary.com/dptfyzzyl/image/upload/v1691889256/EBay_logo_m3aa3x.png" link="https://www.ebay.com/str/montcosupply" target="_blank" rel="noopener noreferrer" alt="Visit our ebay store">}}
